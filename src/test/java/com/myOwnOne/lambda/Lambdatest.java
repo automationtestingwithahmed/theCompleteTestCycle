@@ -20,7 +20,7 @@ public class Lambdatest {
     public void setUp() throws Exception {
         DesiredCapabilities capabilities = new DesiredCapabilities();
         capabilities.setCapability("platform", "OS X El Capitan");
-	     capabilities.setCapability("browserName", "firefox");
+	     capabilities.setCapability("browserName", "chrome");
 	     capabilities.setCapability("version", "84.0"); // If this cap isn't specified, it will just get the any available one
         capabilities.setCapability("resolution","1024x768");
         capabilities.setCapability("build", "First Test");
