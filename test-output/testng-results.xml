@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-03-06T17:42:26Z" name="theCompleteTestingStory" finished-at="2021-03-06T17:42:36Z" duration-ms="10532">
+  <suite started-at="2021-03-06T17:45:28Z" name="theCompleteTestingStory" finished-at="2021-03-06T17:45:39Z" duration-ms="11470">
     <groups>
     </groups>
-    <test started-at="2021-03-06T17:42:26Z" name="VeriPorkInternetBanking" finished-at="2021-03-06T17:42:36Z" duration-ms="10532">
+    <test started-at="2021-03-06T17:45:28Z" name="myVAAI" finished-at="2021-03-06T17:45:39Z" duration-ms="11470">
       <class name="com.myOwnOne.lambda.Lambdatest">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.myOwnOne.lambda.Lambdatest@54c562f7]" started-at="2021-03-06T17:42:26Z" name="setUp" finished-at="2021-03-06T17:42:33Z" duration-ms="6864" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.myOwnOne.lambda.Lambdatest@54c562f7]" started-at="2021-03-06T17:45:28Z" name="setUp" finished-at="2021-03-06T17:45:35Z" duration-ms="7140" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="testScript()[pri:0, instance:com.myOwnOne.lambda.Lambdatest@54c562f7]" started-at="2021-03-06T17:42:33Z" name="testScript" finished-at="2021-03-06T17:42:36Z" duration-ms="3650" status="PASS">
+        <test-method signature="testScript()[pri:0, instance:com.myOwnOne.lambda.Lambdatest@54c562f7]" started-at="2021-03-06T17:45:35Z" name="testScript" finished-at="2021-03-06T17:45:39Z" duration-ms="4314" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testScript -->
       </class> <!-- com.myOwnOne.lambda.Lambdatest -->
-    </test> <!-- VeriPorkInternetBanking -->
+    </test> <!-- myVAAI -->
   </suite> <!-- theCompleteTestingStory -->
 </testng-results>
