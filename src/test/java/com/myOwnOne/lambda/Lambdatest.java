@@ -1,6 +1,6 @@
 //This is maven project
 
-package lambdatest; //<your package name>
+package com.myOwnOne.lambda; //<your package name>
 
 import org.testng.annotations.Test;
 import java.net.MalformedURLException;
